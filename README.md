@@ -2,6 +2,7 @@
 
 Most of my code is in private repositories because it's terrible, sorry.
 
+[![wakatime](https://wakatime.com/badge/user/8618af0f-2922-48fc-a975-d1faa417e6eb.svg?style=for-the-badge)](https://wakatime.com/@8618af0f-2922-48fc-a975-d1faa417e6eb)
 ## Active private projects
 
 - Salmon-backend (McOsu online server) [![wakatime](https://wakatime.com/badge/user/8618af0f-2922-48fc-a975-d1faa417e6eb/project/8e9c5851-06b9-478e-817c-e6fc140d1b9d.svg?style=flat-square)](https://wakatime.com/badge/user/8618af0f-2922-48fc-a975-d1faa417e6eb/project/8e9c5851-06b9-478e-817c-e6fc140d1b9d)
