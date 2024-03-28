@@ -1,4 +1,4 @@
-<div align="center">![](http://dl8.glitter-graphics.net/pub/1530/1530958btvqb6kh4d.jpg)</div>
+<div align="center">![](img.jpg)</div>
 
 Most of my code is in private repositories sorry!
 
