@@ -1,4 +1,4 @@
-<div align="center">![1956049kacon5r4to](https://github.com/riesha/riesha/assets/58556779/05f5286f-ce91-4960-ae5f-f9e5a272471f)</div>
+<div align="center">![](http://dl8.glitter-graphics.net/pub/1530/1530958btvqb6kh4d.jpg)</div>
 
 Most of my code is in private repositories sorry!
 
